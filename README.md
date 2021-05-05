@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there I'm Steverst1 👋
 
-<!--
-**steverst1/steverst1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web developement.
+- 🌱 I’m currently learning new Technologies Frameworks, Libraries.
+- 👯 I’m looking to collaborate on creating website!
+- 🤔 I’m looking for help with design.
+- 💬 Ask me about PHP, JavaScript.
+- 📫 How to reach me:
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+[twitter]: https://twitter.com/steverst1
+[instagram]: https://instagram.com/steverst1
