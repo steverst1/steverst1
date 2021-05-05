@@ -6,7 +6,4 @@
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about PHP, JavaScript.
 - 📫 How to reach me:
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-[twitter]: https://twitter.com/steverst1
-[instagram]: https://instagram.com/steverst1
+🐦 [twitter](https://twitter.com/steverst1) **|** 📷 [instagram](https://instagram.com/steverst1)
